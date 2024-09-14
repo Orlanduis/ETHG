@@ -1,4 +1,4 @@
-# ETHG.js
+# README.md
 // Specifically request an abstraction for ETG
 var ETG = artifacts.require("ETG");
 var testContract = artifacts.require("Test");
