@@ -1,5 +1,5 @@
 {
-  "name": "ETG",
+  "name": "ETHG",
   "version": "1.7.0",
   "description": "Secure Smart Contract library for Solidity",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EthereumGoldETG/ETG"
+    "url": "https://github.com/ETHG
   },
   "keywords": [
     "solidity",
